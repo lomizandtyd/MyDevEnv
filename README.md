@@ -38,5 +38,6 @@ curl -sS https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -
 echo "please reopen your terminal"
 
 # Install my packages after reopen terminal
-conda install numpy scipy jieba regex
+conda install numpy scipy regex
+pip install -r requirements.txt
 ```

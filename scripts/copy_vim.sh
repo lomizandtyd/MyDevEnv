@@ -21,4 +21,4 @@ sudo apt install exuberant-ctags
 
 }
 
-cp -r ${ROOT}/vim/* ~/ && echo "done."
+cp -r ${ROOT}/vim/.vi* ~/ && echo "done."

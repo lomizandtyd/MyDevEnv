@@ -1,0 +1,6 @@
+jieba
+pynlpir
+tqdm
+ipdb
+jupyter
+ipython
