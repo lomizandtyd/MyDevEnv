@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/mnt/d/Codes/CPlusPlus/MorphemeAnalysis/src/test'
+let g:netrw_dirhist_2='/home/yatang/3rd_party/openfst-1.7.3/build/include/fst'
+let g:netrw_dirhist_3='/mnt/d/Codes/CPlusPlus/NeteaseTTS_server/native/TextAnalysis/cmake'
+let g:netrw_dirhist_4='/mnt/d/Project/Vanke/similarity_search/run'
